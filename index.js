@@ -1,5 +1,5 @@
-import * as THREE from 'three';
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+import * as THREE from 'https://cdn.skypack.dev/three';
+import { GLTFLoader } from 'https://cdn.skypack.dev/three/examples/jsm/loaders/GLTFLoader.js';
 
 let scene, camera, renderer, cube;
 let isDragging = false;
