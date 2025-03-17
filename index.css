@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-container {
+  position: absolute;
+  display: inline-flex;
+  right: 5vw;
+  top: 5vh;
+  gap: 20px
+}
+
+.btn {
+  width: 60px;
+  height: 60px;
+  border-radius: 15px;
+  border: none;
+  /* border: double 5px #241db8; */
+  background-color: #ffffff;
+  font-size: 15px;
+  color: #808080;
+  /* box-shadow: #473eff -2px -2px 10px, #00c96b 3px 3px 20px; */
+  box-shadow: #dcdcdc -2px -2px 6px, #5a5a5a 3px 3px 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .btn {
+    /* width: 50px;
+    height: 50px; */
+    font-size: 15px;
+  }
+
+}
