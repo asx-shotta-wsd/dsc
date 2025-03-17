@@ -152,10 +152,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Texture_baseColor.png"
+      "uri": "textures/Texture_baseColor.jpg"
     },
     {
-      "uri": "textures/Texture_normal.png"
+      "uri": "textures/Texture_normal.jpg"
     }
   ],
   "materials": [
