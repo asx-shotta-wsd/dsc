@@ -1,0 +1,11 @@
+Model Information:
+* title:	GorrillaMain
+* source:	https://sketchfab.com/3d-models/gorrillamain-3ee5ad26416641d0a2c959841ba94843
+* author:	Sabry Mansour (https://sketchfab.com/Sabry-Mansour)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GorrillaMain" (https://sketchfab.com/3d-models/gorrillamain-3ee5ad26416641d0a2c959841ba94843) by Sabry Mansour (https://sketchfab.com/Sabry-Mansour) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
