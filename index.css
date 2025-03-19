@@ -5,9 +5,8 @@ body {
 .btn-container {
   position: absolute;
   display: inline-flex;
-  right: 5vw;
+  right: 2vw;
   top: 5vh;
-  gap: 20px
 }
 
 .btn {
@@ -21,6 +20,17 @@ body {
   color: #808080;
   /* box-shadow: #473eff -2px -2px 10px, #00c96b 3px 3px 20px; */
   box-shadow: #dcdcdc -2px -2px 6px, #5a5a5a 3px 3px 10px;
+}
+
+.next-btn-container {
+  position: absolute;
+  right: 2vw;
+  height: 100vh;
+  align-content: center;
+}
+
+.maximum {
+  fill: #c0c0c0;
 }
 
 @media screen and (max-width: 768px) {
