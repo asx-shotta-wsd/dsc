@@ -28,7 +28,6 @@ body {
   height: 100vh;
   top: 0px;
   bottom: 0px;
-  background-color: red;
   display: flex;
   align-content: center;
   /* 子要素の垂直方向の整列 */
