@@ -28,8 +28,13 @@ body {
   height: 100vh;
   top: 0px;
   bottom: 0px;
-  align-content: center;
   background-color: red;
+  display: flex;
+  align-content: center;
+  /* 子要素の垂直方向の整列 */
+  align-items: center;
+  /* 子要素の水平方向の整列 */
+  justify-content: center;
 }
 
 .maximum {
